@@ -1,16 +1,20 @@
-## Hi there 👋
+# About me
 
-<!--
-**vandojo/vandojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science graduate looking for the next challenge. During my degree I have interned and worked as a software developer. I am interested in both front-end and back-end development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on:
+  -  Finishing my recipe application
+  -  Creating a chatbot
+- 🌱 I’m currently learning:
+  - Stripe integration
+  - AWS
+- 👯 I’m looking to collaborate on:
+    I am up for anything!
+- 🤔 I’m looking for help with:
+    - My chatbot
+
+#### Do not hesitate to get in touch!
+
+
