@@ -1,4 +1,4 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./assets/banner.png" height="600" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="./assets/banner.png" height="" /></a>
 
 [![Visits Badge](https://badges.pufler.dev/visits/vandojo/vandojo)](https://github.com/vandojo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://uk.linkedin.com/in/joep-van-dormolen-5249b8149)
