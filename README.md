@@ -1,19 +1,22 @@
+[![Joep's GitHub Banner](./assets/banner.png)](https://github.com/vandojo)
+
+[![Visits Badge](https://badges.pufler.dev/visits/vandojo/vandojo)](https://github.com/vandojo)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://uk.linkedin.com/in/joep-van-dormolen-5249b8149)
+
 # About me
 
 I am a computer science graduate looking for the next challenge. During my degree I have interned and worked as a software developer. I am interested in both front-end and back-end development.
 
-
-
 - 🔭 I’m currently working on:
-  -  Finishing my recipe application
-  -  Creating a chatbot
+  - Finishing my recipe application
+  - Creating a chatbot
 - 🌱 I’m currently learning:
   - Stripe integration
   - AWS
 - 👯 I’m looking to collaborate on:
-    I am up for anything!
+  I am up for anything!
 - 🤔 I’m looking for help with:
-    - My chatbot
+  - My chatbot
 
 ## Stats
 
@@ -21,5 +24,3 @@ I am a computer science graduate looking for the next challenge. During my degre
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandojo&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Do not hesitate to get in touch!
-
-
