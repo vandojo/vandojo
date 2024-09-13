@@ -1,4 +1,4 @@
-[![Joep's GitHub Banner](./assets/banner.png)](https://github.com/vandojo)
+<a href="URL_REDIRECT" target="blank"><img align="center" src="./assets/banner.png" height="" /></a>
 
 [![Visits Badge](https://badges.pufler.dev/visits/vandojo/vandojo)](https://github.com/vandojo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://uk.linkedin.com/in/joep-van-dormolen-5249b8149)
@@ -13,13 +13,9 @@ I am Joep, a computer science graduate, generative art afficionado, with a passi
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vandojo&repo=openPowerlifting&theme=gruvbox" />
 </a>
 
-<br>
-
 <a href="https://github.com/vandojo/Leetcode_challenges">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vandojo&repo=Leetcode_challenges&theme=gruvbox" />
 </a>
-
-<br>
 
 <a href="https://github.com/vandojo/filmToBarcode">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vandojo&repo=filmToBarcode&theme=gruvbox" />
