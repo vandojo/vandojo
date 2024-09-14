@@ -1,4 +1,4 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./assets/banner.png" height="" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" source="https://gruvbox-wallpapers.pages.dev/wallpapers/anime/my-neighbor-totoro-sunflowers.png" src="./assets/banner.png" height="" /></a>
 
 [![Visits Badge](https://badges.pufler.dev/visits/vandojo/vandojo)](https://github.com/vandojo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://uk.linkedin.com/in/joep-van-dormolen-5249b8149)
@@ -6,25 +6,6 @@
 Hi!
 
 I am Joep: a computer science graduate and generative art afficionado, with a passion for both front-end and back-end development. I thrive in a dynamic environment where I am challenged to improve myself. It is my mission to craft responsive and blazingly fast websites and applications. Let's connect and I will show you what I can do!
-
-### 📌 Pinned Repositories
-
-<a href="https://github.com/vandojo/openPowerlifting">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vandojo&repo=openPowerlifting&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/vandojo/Leetcode_challenges">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vandojo&repo=Leetcode_challenges&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/vandojo/filmToBarcode">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vandojo&repo=filmToBarcode&theme=gruvbox" />
-</a>
-
-### &#x1f4c8; Github Stats
-
-[![Joep's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandojo&hide=contribs&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandojo&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💼 Skills
 
@@ -48,4 +29,22 @@ I am Joep: a computer science graduate and generative art afficionado, with a pa
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)](#)
 
-#### Do not hesitate to get in touch!
+### 📌 Pinned Repositories
+
+<a href="https://github.com/vandojo/openPowerlifting">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vandojo&repo=openPowerlifting&theme=gruvbox" />
+</a>
+
+<a href="https://github.com/vandojo/Leetcode_challenges">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vandojo&repo=Leetcode_challenges&theme=gruvbox" />
+</a>
+
+<a href="https://github.com/vandojo/filmToBarcode">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=vandojo&repo=filmToBarcode&theme=gruvbox" />
+</a>
+
+### &#x1f4c8; Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandojo&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Let's connect!
